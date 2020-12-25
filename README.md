@@ -1,2 +1,2 @@
-# one-hour-ddukddak
-1 hour time attack project-o'-rama
+# 한시간 뚝딱
+단순히 아무 생각 없이 한시간 동안 아무 주제 아무 규모로 코딩이 하고싶어 만든 저장소입니다.
